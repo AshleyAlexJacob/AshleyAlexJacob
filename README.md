@@ -16,5 +16,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyAlexJacob&show_icons=true)
 Outside of [GitHub](https://github.com/AshleyAlexJacob/)
 [![Twitter: AshleyAlexJacob](https://img.shields.io/twitter/follow/ashleyjaco1?style=social)](https://twitter.com/ashleyalexjaco1)
-[![Linkedin: AshleyAlexJacob](https://img.shields.io/badge/-MianJawadAhmad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ashleyalexjacob2000/)](www.linkedin.com/in/ashleyalexjacob2000/)
 [![GitHub AshleyAlexJacob](https://img.shields.io/github/followers/AshleyAlexJacob?label=follow&style=social)](https://github.com/AshleyAlexJacob)
