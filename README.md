@@ -15,8 +15,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyAlexJacob&show_icons=true)
+<br />
 Outside of [GitHub](https://github.com/AshleyAlexJacob/)
 [![Twitter: AshleyAlexJacob](https://img.shields.io/twitter/follow/ashleyjaco1?style=follow)](https://twitter.com/ashleyalexjaco1)
 [![GitHub AshleyAlexJacob](https://img.shields.io/github/followers/AshleyAlexJacob?label=follow&style=social)](https://github.com/AshleyAlexJacob)
