@@ -18,7 +18,19 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyAlexJacob&show_icons=true)
 <br />
 Outside of [GitHub](https://github.com/AshleyAlexJacob/)
-[![Twitter AshleyAlexJacob](https://img.shields.io/twitter/follow/ashleyjaco1?style=follow)](https://twitter.com/ashleyalexjaco1)
+<a href="www.linkedin.com/in/ashleyalexjacob2000">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/ashleyalexjaco1">
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40" />
+</a>
+
+<a href="https://medium.com/@ashleyalexjacob/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 [![GitHub AshleyAlexJacob](https://img.shields.io/github/followers/AshleyAlexJacob?label=follow&style=social)](https://github.com/AshleyAlexJacob)
 
 Open Source Contributor from *Peshawar,Pakistan 💚*
+
+![](https://visitor-badge.glitch.me/badge?page_id=AshleyAlexJacob.AshleyAlexJacob)
