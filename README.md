@@ -18,7 +18,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyAlexJacob&show_icons=true)
 <br />
 Outside of [GitHub](https://github.com/AshleyAlexJacob/)
-[![Twitter: AshleyAlexJacob](https://img.shields.io/twitter/follow/ashleyjaco1?style=follow)](https://twitter.com/ashleyalexjaco1)
+[![Twitter AshleyAlexJacob](https://img.shields.io/twitter/follow/ashleyjaco1?style=follow)](https://twitter.com/ashleyalexjaco1)
 [![GitHub AshleyAlexJacob](https://img.shields.io/github/followers/AshleyAlexJacob?label=follow&style=social)](https://github.com/AshleyAlexJacob)
 
 Open Source Contributor from *Peshawar,Pakistan 💚*
