@@ -25,7 +25,7 @@ Outside of [GitHub](https://github.com/AshleyAlexJacob/)
 </a>
 
 <a href="https://twitter.com/ashleyalexjaco1">
-    <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40" />
+    <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ashley" />
 </a>
 
 <a href="https://medium.com/@ashleyalexjacob/">
