@@ -3,7 +3,7 @@
 <!-- **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/AshleyAlexJacob) represent my journey :running_man: - This is Ashley Alex Jacob, a young tech enthusiast and a learner. I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Science, Machine Learning/AI, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, Python, C++/C, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase as database as well.
  -->
  
-Diligent and Insightful Computer Engineering Student, Trying to make an impact in the life of masses for a better human life, using the technical and soft skills. Major areas of interest lie in success-driven solutions design incorporating modern techniques of AI and Data Science and the intersection of Mobile and Web Engineering.
+Diligent and Insightful Computer Engineer, Trying to make an impact in the life of the masses for a better human life, using technical and soft skills. Major areas of interest lie in success-driven solutions design incorporating modern techniques of AI and Data Science and the intersection of Mobile and Web Engineering.
  
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
