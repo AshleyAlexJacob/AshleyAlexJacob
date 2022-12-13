@@ -4,6 +4,8 @@
  -->
  
 Diligent and Insightful Computer Engineer, Trying to make an impact in the life of the masses for a better human life, using technical and soft skills. Major areas of interest lie in success-driven solutions design incorporating modern techniques of AI and Data Science and the intersection of Mobile and Web Engineering.
+
+Been into engineering sector for past 4 years, i have worked on various platforms and programming langugaes and frameworks. Out of all those i have worked extensively on flutter for mobile application development, Python/Keras/Tensorflow/SkLearn for different Machine Learning and Deep learning Tasks, plus i have been using AWS for over a year, i have explored dockers and complete CI/CD Pipelines. I aspired to be a MlOps Expert in future.
  
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
