@@ -3,17 +3,35 @@
 <!-- **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/AshleyAlexJacob) represent my journey :running_man: - This is Ashley Alex Jacob, a young tech enthusiast and a learner. I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Science, Machine Learning/AI, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, Python, C++/C, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase as database as well.
  -->
  
-I am a Skilled AI/ML Engineer with a passion for leveraging Machine Learning, Deep Learning, and Cloud Computing to create impactful, real-world solutions. Currently, I'm applying my expertise as a Machine Learning Engineer at K2X Tech, a prominent Denmark-based company. My primary goal is to contribute to AI-driven research and the development of cutting-edge products across diverse sectors.
+Versatile Machine Learning Engineer passionate about leveraging AI and Data Science to enhance healthcare and the public sector. Dedicated to utilizing cutting-edge technologies to improve human life quality, with extensive experience in real-time ML systems, MLOps, and microservices architecture.
 
-My journey in the field of data science and machine learning has equipped me with a comprehensive skill set. I excel in understanding complex business problems, designing innovative solutions, and efficiently preparing data for analysis. I have a wealth of experience in the crucial phases of the machine learning lifecycle, from pre-training and fine-tuning models using frameworks like TensorFlow, Keras, PyTorch, to employing essential tools such as MLFlow and DVC for seamless machine learning lifecycle management.
+MY VALUE PROPOSITION:
 
-One of my strengths lies in fine-tuning Language Model Models (LLMs) and NLP models to cater to various business use cases. Additionally, I specialize in implementing model optimization techniques to ensure that our models meet the high expectations of diverse stakeholders. My ability to lead communications with business stakeholders, conduct in-depth requirement analysis, and employ effective problem-solving techniques has allowed me to forge strong partnerships and drive project success.
+With a strong track record in end-to-end machine learning solutions, I bring a comprehensive approach to ML engineering, encompassing data preparation, model training, and deployment. I excel in managing complex projects involving multiple stakeholders, ensuring the delivery of scalable and reliable AI-driven products. My expertise in frameworks such as TensorFlow, Keras, and PyTorch, combined with proficiency in tools like MLFlow and DVC, enables me to fine-tune models for optimal performance and accuracy.
 
-Throughout my career, I've built a solid track record in developing end-to-end data-driven systems. I guarantee their robustness by rigorously testing through Unit, Integration, and Load Testing, and oversee the entire product development process. Furthermore, I have significant experience in packaging and deploying end-to-end ML-based products to cloud platforms like AWS and Azure, and I am well-versed in containerization using Docker. My expertise also extends to establishing efficient CI/CD pipelines, ensuring smooth and automated workflows for continuous integration and deployment.
+WHAT AM I UP TO:
 
-In addition to my machine learning and data science skills, I'm a diligent and insightful computer engineer who aims to make a positive impact on people's lives. My focus on success-driven solutions incorporates the latest AI and Data Science techniques, as well as expertise in Mobile and Web Engineering. Over my three-year career in the engineering sector, I've honed my skills on various platforms, programming languages, and frameworks.
+Currently serving as a Senior Machine Learning Engineer at K2X Tech, where I lead the development of AI-driven customer service platforms and expert systems. My role involves collaborating with cross-functional teams to streamline ML pipelines and deploy scalable AI solutions on cloud platforms like AWS and Azure.
 
-I specialize in mobile application development using Flutter, and I have a strong foundation in Python, Keras, TensorFlow, and Scikit-Learn for various machine learning and deep learning tasks. With over two years of experience working with AWS, I am well-versed in cloud computing, and I have explored the power of Docker containers and established comprehensive CI/CD pipelines to streamline software development and deployment.
+I am also committed to the continuous professional development of the AI community, actively contributing to open-source projects and sharing insights through various platforms.
+
+AREAS OF EXPERTISE:
+
+Strategic:
+
+Machine Learning System Design
+Team Leadership
+AI-Driven Product Development
+
+Operational:
+
+Data Preparation & Model Training
+
+Hands-on:
+
+Python, TensorFlow, Keras, PyTorch, Langchain, Haystack, Llama Index
+Dockers, Kafka, Databricks
+MLFlow, DVC, FastAPI, AWS, Azure
 
 My GitHub profile showcases the fusion of these two skill sets, encompassing my work in AI/ML, cloud computing, and software engineering. I am committed to advancing the field of AI and contributing to the betterment of society through innovative technical solutions.
 
