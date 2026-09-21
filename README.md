@@ -1,74 +1,48 @@
-## Hello There 👋
+# Ashley Alex Jacob
 
-<!-- **Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/AshleyAlexJacob) represent my journey :running_man: - This is Ashley Alex Jacob, a young tech enthusiast and a learner. I am a student of Computer Systems Engineering. I have a passion for learning different things,languages and frameworks. And in pursuit of learning, i experiment with things and sometimes get failed and sometimes succeed.I have deep interest in Data Science, Machine Learning/AI, Computer Vision and Mobile App Development. As far my development journey is concerned i have started to explore Cross Platform App Development in shape of Flutter/Dart. Along with that i have a experience with different programming languages, Python, C++/C, Arduino,Bash Scripting, Matlab, Dart/Flutter. I have tried Firebase as database as well.
- -->
- 
-Versatile Machine Learning Engineer passionate about leveraging AI and Data Science to enhance healthcare and the public sector. Dedicated to utilizing cutting-edge technologies to improve human life quality, with extensive experience in real-time ML systems, MLOps, and microservices architecture.
+Senior AI Engineer · MS Data Science · Peshawar, Pakistan
 
-MY VALUE PROPOSITION:
+I build AI and data systems for production, and I'm increasingly focused on making them trustworthy: explainable, privacy-preserving and secure.
 
-With a strong track record in end-to-end machine learning solutions, I bring a comprehensive approach to ML engineering, encompassing data preparation, model training, and deployment. I excel in managing complex projects involving multiple stakeholders, ensuring the delivery of scalable and reliable AI-driven products. My expertise in frameworks such as TensorFlow, Keras, and PyTorch, combined with proficiency in tools like MLFlow and DVC, enables me to fine-tune models for optimal performance and accuracy.
+## Where I'm headed
 
-WHAT AM I UP TO:
+- **Explainable AI**: understanding *why* a model fails, not just measuring that it does. I'm starting with failure cases from my thesis and Grad-CAM analysis of medical-imaging models.
+- **Federated learning**: privacy-preserving training, motivated by working with sensitive national-scale data.
+- **Vision-language-action models**: connecting perception to action.
+- **Security of AI systems**: guardrails, fraud detection and secure deployment.
 
-Currently serving as a Senior Machine Learning Engineer at K2X Tech, where I lead the development of AI-driven customer service platforms and expert systems. My role involves collaborating with cross-functional teams to streamline ML pipelines and deploy scalable AI solutions on cloud platforms like AWS and Azure.
+These are directions I'm actively learning. I'll publish small experiments here as I go.
 
-I am also committed to the continuous professional development of the AI community, actively contributing to open-source projects and sharing insights through various platforms.
+## Background
 
-AREAS OF EXPERTISE:
+- **Senior Consulting Engineer**: secure, scalable AI backends, including LLM and speech pipelines, OCR, fraud detection and distributed services.
+- **K2X Tech (previously)**: led an ML/data team; built LLM assistants, Urdu OCR for government media monitoring and a BERT-based recommender; helped build a pilot data platform (Kubernetes, Spark, Kafka, JupyterHub, MongoDB, MinIO) for Rwanda's National Institute of Statistics and trained their team to operate it.
+- **MS Data Science (CGPA 3.80)**: compared Med-SAM with 3D-UNet for pediatric brain tumor segmentation (DSC 70.89%, IoU 68.02%); Med-SAM struggled on very small or irregular tumors.
 
-Strategic:
+Client code and data are private. What's here is personal, academic and teaching work.
 
-Machine Learning System Design
-Team Leadership
-AI-Driven Product Development
+## Selected repositories
 
-Operational:
+| Repo | What it shows |
+|---|---|
+| [Vision-Transformer-From-Scratch](https://github.com/AshleyAlexJacob/Vision-Transformer-From-Scratch) | Vision Transformer implemented from first principles |
+| [Bone-Age-Prediction-Web-Application-Using-Deep-Learning-](https://github.com/AshleyAlexJacob/Bone-Age-Prediction-Web-Application-Using-Deep-Learning-) | CNN regression on pediatric hand X-rays, served as a web app |
+| [ML--OPS-Flow---Churn-Prediction](https://github.com/AshleyAlexJacob/ML--OPS-Flow---Churn-Prediction) | Reproducible pipeline with DVC, MLflow, FastAPI, Docker and AWS |
+| [Flask-API-Folder-Guide-2023](https://github.com/AshleyAlexJacob/Flask-API-Folder-Guide-2023) | Practical guide to structuring Flask APIs |
 
-Data Preparation & Model Training
+<!-- Add rows as you publish: Med-SAM thesis, Healthcare-360, explainability experiment, federated learning experiment -->
 
-Hands-on:
+## Research
 
-Python, TensorFlow, Keras, PyTorch, Langchain, Haystack, Llama Index
-Dockers, Kafka, Databricks
-MLFlow, DVC, FastAPI, AWS, Azure
+- *Improved Pediatric Brain Tumor Segmentation Using Med-SAM Foundation Model* (manuscript)
+- *Predicting Chordoma Metastasis Using Gene Expression Data and Machine Learning* (submitted, PJAIMR)
 
-My GitHub profile showcases the fusion of these two skill sets, encompassing my work in AI/ML, cloud computing, and software engineering. I am committed to advancing the field of AI and contributing to the betterment of society through innovative technical solutions.
+## Teaching and collaboration
 
-**Languages and Tools:**
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+- AI Instructor at Saylani Mass IT Training, a social-welfare programme that helps young people build skills to earn independently (70+ students).
+- Seminars at UET Mardan and Code for Pakistan; Co-Lead of the Microsoft Learn Student Ambassadors chapter at UET Peshawar (2021–22).
+- [Desifit](https://desifit.tech): a collaborative project with industry mentors, where I lead the AI work. [one line on what it does]
 
+## Find me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyAlexJacob&show_icons=true)
-<br />
-Outside of [GitHub](https://github.com/AshleyAlexJacob/)
-<br />
-
-<a href="https://www.linkedin.com/in/ashleyalexjacob2000/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://twitter.com/ashleyalexjaco1">
-    <img src="https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ashley" />
-</a>
-
-<a href="https://medium.com/@ashleyalexjacob/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<br />
-
-
-[![GitHub AshleyAlexJacob](https://img.shields.io/github/followers/AshleyAlexJacob?label=follow&style=social)](https://github.com/AshleyAlexJacob)
-
-Open Source Contributor from *Peshawar,Pakistan 💚*
-
-![](https://visitor-badge.glitch.me/badge?page_id=AshleyAlexJacob.AshleyAlexJacob)
+[Website](https://ashleyalexjacob.com) · [LinkedIn](https://www.linkedin.com/in/ashleyalexjacob2000/) · [Medium](https://medium.com/@ashleyalexjacob/)
